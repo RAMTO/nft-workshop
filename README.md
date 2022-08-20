@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# 🤓 NFT Workshop
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Complete code for the Crypto Revolution and LimeAcademy workshop.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Full instructions you can find [here](https://www.notion.so/dobreff/NFT-Workshop-302fd488b4204803a1381ba7e69eb355).
